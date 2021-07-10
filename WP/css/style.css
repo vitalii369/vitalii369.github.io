@@ -26,7 +26,7 @@ body {
 
 /* ========Section-PROMO=========================================== */
 .promo {
-    background: url(img/first_screen_bg.jpg) center center / cover no-repeat;
+    background: url(../img/first_screen_bg.jpg) center center / cover no-repeat;
     color: #fff;
     /* min-height: 802px; */
     text-align: center;
@@ -175,7 +175,7 @@ h2.hard {
 .finish {
     /* min-height: 447px; */
     text-align: center;
-    background: url(img/finish_learning_bg.jpg) center center / cover no-repeat;
+    background: url(../img/finish_learning_bg.jpg) center center / cover no-repeat;
     color: #fff;
     padding: 86px 0 67px;
 }
